@@ -4,7 +4,7 @@ Check it on https://dbeee41b.typescript-gym.pages.dev/
 
 ## Introduction
 - React Fitness Application using Typescript
-- Deplyed to Cloudflare
+- Deployed to Cloudflare
 - A fully responsive website 
 
 
