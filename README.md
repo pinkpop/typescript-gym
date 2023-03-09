@@ -1,9 +1,11 @@
 # React-typescript website
+## URL
 Check it on https://dbeee41b.typescript-gym.pages.dev/
+##Introduction
+- React Fitness Application using Typescript
+- Deplyed to Cloudflare
+- A fully responsive website 
 
-*React Fitness Application using Typescript
-*Deplyed to Cloudflare
-*A fully responsive website 
 
 ![截屏2023-02-24 17 00 56](https://user-images.githubusercontent.com/19500045/221125095-dbdf7410-68d4-4852-9cf6-911fd7916133.png)
 ![截屏2023-02-24 17 01 36](https://user-images.githubusercontent.com/19500045/221125108-b926fede-4e0a-4683-95c5-87a4a421bc59.png)
